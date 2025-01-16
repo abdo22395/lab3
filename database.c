@@ -19,8 +19,8 @@ int main (int argc, char* argv[])
    if (!mysql_real_connect(
          conn,                 // Connection
          "localhost",// Host
-         "archie",            // User account
-         "some_pass",   // User password
+         "Daytoo",            // User account
+         "Magnfacnt123",   // User password
          "sensor_data",               // Default database
          3306,                 // Port number
          NULL,                 // Path to socket file
